@@ -1,0 +1,15 @@
+/* Adicione aqui seus estilos CSS personalizados se necessário */
+
+/* Exemplo de correção de smooth scroll */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Ajustes finos se o Tailwind não cobrir algo */
+.font-serif {
+    font-family: 'Playfair Display', serif;
+}
+
+.font-sans {
+    font-family: 'Montserrat', sans-serif;
+}
